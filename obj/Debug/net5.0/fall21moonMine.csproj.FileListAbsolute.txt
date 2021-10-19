@@ -1,0 +1,16 @@
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\bin\Debug\net5.0\fall21moonMine.exe
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\bin\Debug\net5.0\fall21moonMine.deps.json
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\bin\Debug\net5.0\fall21moonMine.runtimeconfig.json
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\bin\Debug\net5.0\fall21moonMine.runtimeconfig.dev.json
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\bin\Debug\net5.0\fall21moonMine.dll
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\bin\Debug\net5.0\ref\fall21moonMine.dll
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\bin\Debug\net5.0\fall21moonMine.pdb
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\obj\Debug\net5.0\fall21moonMine.csproj.AssemblyReference.cache
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\obj\Debug\net5.0\fall21moonMine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\obj\Debug\net5.0\fall21moonMine.AssemblyInfoInputs.cache
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\obj\Debug\net5.0\fall21moonMine.AssemblyInfo.cs
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\obj\Debug\net5.0\fall21moonMine.csproj.CoreCompileInputs.cache
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\obj\Debug\net5.0\fall21moonMine.dll
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\obj\Debug\net5.0\ref\fall21moonMine.dll
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\obj\Debug\net5.0\fall21moonMine.pdb
+C:\Users\tanta\source\codeworks\firesides\fall21\rebuilds\fall21moonMine\obj\Debug\net5.0\fall21moonMine.genruntimeconfig.cache

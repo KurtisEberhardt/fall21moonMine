@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "fall21moonMine/1.0.0": {
+        "runtime": {
+          "fall21moonMine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fall21moonMine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
